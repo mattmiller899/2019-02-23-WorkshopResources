@@ -1,0 +1,5 @@
+hello world
+thesis
+hi
+hit ctrl+O to save then enter
+hit ctrl+X to exit
